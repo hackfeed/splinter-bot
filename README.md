@@ -1,2 +1,5 @@
-# splinter-bot
-Discord-bot made for MSHP API course
+# Splinter Bot
+
+**Discord**-bot made for [**MSHP**](https://informatics.ru/) **API** course.
+
+**Discord:** *temporary unavailable*
